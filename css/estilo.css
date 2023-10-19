@@ -1,0 +1,35 @@
+body  {
+    background-image: url("./../imagens/cabecalhos_back.png");
+    background-repeat: repeat-y;
+    background-color: #fff7d4; 
+    margin-left: 200px;
+    margin-right: 40px;
+    
+  }
+
+  h1 {
+      padding: 15px;
+      font-size: 50px;
+      font-weight: bolder;
+      color: #8f6800;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    }
+    h2{
+        padding: 15px;
+        font-size: 30px;
+        font-weight: bolder;
+        color: #8f6800;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    p{
+        padding: 15px;
+    }
+
+    h3{
+        padding: 10px;
+        font-weight: bolder;
+        color: aliceblue;
+        background-color: #d38d00;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
